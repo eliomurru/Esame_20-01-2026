@@ -46,4 +46,4 @@ nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
 plt.savefig("plot")
 plt.show()
 """
-
+edges = model.
